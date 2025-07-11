@@ -13,6 +13,7 @@ Este repositorio contiene un **catálogo bioinformático de hongos clínicamente
 3. Validar taxonomías actuales con datos genómicos  
 
 ## 📂 Estructura del Proyecto :
+```
 repo/
 ├── data/
 │ ├── clinical_fungi_list.csv # Lista curada de especies
@@ -22,6 +23,7 @@ repo/
 └── results/
 ├── trees/ # Archivos Newick/FigTree
 └── annotations/ # Genes de virulencia/resistencia
+```
 
 
 ## 🔍 Métodos Clave  
