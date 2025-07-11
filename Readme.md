@@ -29,7 +29,7 @@ repo/
 ## 🔍 Métodos Clave  
 - **Herramientas**: `OrthoFinder` (ortólogos), `IQ-TREE` (filogenia), `GTDB-Tk` (taxonomía)  
 - **Marcadores**: Genes BUSCO + proteínas ribosomales  
-- **Visualización**: `ggtree` (R) o `ETE3` (Python)  
+- **Visualización**: `ggtree` (R) o `ETE3` (Python) `figtree` (Gráfico) `itol` (on-line)
 
 ## 📚 Referencias  
 - [WHO Fungal Priority Pathogens List (2022)](https://www.who.int/publications/i/item/9789240060241)  
